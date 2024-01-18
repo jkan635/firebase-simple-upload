@@ -26,7 +26,7 @@ firebase deploy
 
 Log into firebase and create a Firebase web app inside the new project
 
-Create a ``.env.local` file in the project root with the following fields, fill it out with the information from the new Firebase web app. Ensure it is in the gitignore so you don't commit your project information
+Create a `.env.local` file in the project root with the following fields, fill it out with the information from the new Firebase web app. Ensure it is in the gitignore so you don't commit your project information
 
 ```md
 NEXT_PUBLIC_FIREBASE_API_KEY=your_api_key
